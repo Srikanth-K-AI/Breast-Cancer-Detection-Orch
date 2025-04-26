@@ -16,6 +16,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle 
+import sklearn
 
 # Load the model and scaler
 with open('breast_cancer_model.pkl', 'rb') as model_file:
