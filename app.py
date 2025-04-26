@@ -13,7 +13,7 @@ Deployment: Hugging Face Spaces
 
 # Libraries
 import streamlit as st
-import joblib 
+import joblib as jb
 import numpy as np
 import pandas as pd
 import pickle 
