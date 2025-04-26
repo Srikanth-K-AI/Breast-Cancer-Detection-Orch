@@ -5,4 +5,6 @@ numpy
 matplotlib
 seaborn
 joblib
+python==3.8
+
 
